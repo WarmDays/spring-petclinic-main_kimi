@@ -1,0 +1,15 @@
+# 编译产物
+/target/
+*.jar
+*.war
+
+# 环境与配置
+/.idea/
+/.vscode/
+/application.properties
+/application.yml
+
+# 日志与缓存
+/logs/
+*.log
+/.DS_Store
